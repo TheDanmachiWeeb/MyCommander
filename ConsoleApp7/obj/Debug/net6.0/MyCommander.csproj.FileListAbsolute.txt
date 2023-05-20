@@ -1,0 +1,30 @@
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\MyCommander.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\MyCommander.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\MyCommander.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\MyCommander.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\MyCommander.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\MyCommander.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\MyCommander.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\MyCommander.dll
+C:\Users\dima\Music\MyCommander\ConsoleApp7\bin\Debug\net6.0\MyCommander.exe
+C:\Users\dima\Music\MyCommander\ConsoleApp7\bin\Debug\net6.0\MyCommander.deps.json
+C:\Users\dima\Music\MyCommander\ConsoleApp7\bin\Debug\net6.0\MyCommander.runtimeconfig.json
+C:\Users\dima\Music\MyCommander\ConsoleApp7\bin\Debug\net6.0\MyCommander.dll
+C:\Users\dima\Music\MyCommander\ConsoleApp7\bin\Debug\net6.0\MyCommander.pdb
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.csproj.AssemblyReference.cache
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.AssemblyInfoInputs.cache
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.AssemblyInfo.cs
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.csproj.CoreCompileInputs.cache
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.dll
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\refint\MyCommander.dll
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.pdb
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\MyCommander.genruntimeconfig.cache
+C:\Users\dima\Music\MyCommander\ConsoleApp7\obj\Debug\net6.0\ref\MyCommander.dll

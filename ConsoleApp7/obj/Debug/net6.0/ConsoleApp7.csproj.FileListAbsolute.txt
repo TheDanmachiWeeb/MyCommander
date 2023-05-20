@@ -1,0 +1,240 @@
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.exe
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.deps.json
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.runtimeconfig.json
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.pdb
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.AssemblyReference.cache
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfoInputs.cache
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfo.cs
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/refint/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.pdb
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.genruntimeconfig.cache
+C:/Users/sibrava/Desktop/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ref/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.AssemblyReference.cache
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfoInputs.cache
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfo.cs
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/refint/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.pdb
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.exe
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.deps.json
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.runtimeconfig.json
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.dll
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.pdb
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.genruntimeconfig.cache
+C:/Users/sibrava/Desktop/v2/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ref/ConsoleApp7.dll
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.exe
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.deps.json
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.runtimeconfig.json
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.dll
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.pdb
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.AssemblyReference.cache
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfoInputs.cache
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfo.cs
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.dll
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/refint/ConsoleApp7.dll
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.pdb
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.genruntimeconfig.cache
+X:/PRG/PraceVHodinach/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ref/ConsoleApp7.dll
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.deps.json
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.runtimeconfig.json
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.dll
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/bin/Debug/net6.0/ConsoleApp7.pdb
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.AssemblyReference.cache
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfoInputs.cache
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.AssemblyInfo.cs
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.dll
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/refint/ConsoleApp7.dll
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.pdb
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ConsoleApp7.genruntimeconfig.cache
+/Users/dimapixel/Projects/PRG/06-console-ui/ConsoleApp7/ConsoleApp7/obj/Debug/net6.0/ref/ConsoleApp7.dll
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Desktop\ConsoleUI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+X:\PRG\Commander\Checkpoint_1\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\malimondmitry\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Desktop\Console_UI_Malimon\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Pictures\Saved Pictures\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Desktop\Console_UI\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\Commander\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\malimondmitry\Desktop\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\malimondmitry\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\dima\Desktop\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\MalimonDmitry\PRG\12.12\Console_UI - kopie\ConsoleApp7\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll

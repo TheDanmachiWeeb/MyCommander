@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{931D350A-5044-4554-AA31-B1F0C0A5F651}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp7/Windows/ListWindow.cs">
+    <Files>
+      <File FileName="ConsoleApp7/Components/Button.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp7/Components/IComponent.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp7/Components/Row.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp7/Components/Table.cs" Line="128" Column="72" />
+      <File FileName="ConsoleApp7/Components/TextBox.cs" Line="10" Column="38" />
+      <File FileName="ConsoleApp7/Services/FilesService.cs" Line="16" Column="10" />
+      <File FileName="ConsoleApp7/Windows/EditWindow.cs" Line="82" Column="1" />
+      <File FileName="ConsoleApp7/Windows/ListWindow.cs" Line="59" Column="34" />
+      <File FileName="ConsoleApp7/Windows/Window.cs" Line="11" Column="28" />
+      <File FileName="ConsoleApp7/Application.cs" Line="9" Column="22" />
+      <File FileName="ConsoleApp7/Config.cs" Line="15" Column="1" />
+      <File FileName="ConsoleApp7/Program.cs" Line="8" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp7" expanded="True">
+            <Node name="ConsoleApp7" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Windows" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
